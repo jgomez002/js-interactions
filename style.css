@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+
+}
+
+body, html{
+  padding: .4em;
+  margin: .2em;
+  height: 100%;
+  background-color: #cbdfbd;
+  background-size: cover;
+  text-align: center;
+}
+ input, button, label {
+    font-size: 2rem;
+ }
+
+ h1{
+   padding: 2em;
+ }
+
+ #outputText {
+   background-color: #e8e8e4;
+   padding: 2vmin;
